@@ -16,9 +16,9 @@ Already enrolled
 #Headings Of Course Review 
 
 
-# COURSE
-1
-Introduction to Back-End Development
+# COURSE 1
+
+# Introduction to Back-End Development
 4.8stars
 576 ratings
 Welcome to Introduction to Back-End Development, the first course in the Meta Back-End Developer program.  
@@ -40,9 +40,9 @@ For the final project in this course, you will create and edit a webpage using H
 This is a beginner course intended for learners eager to learn the fundamentals of web development. To succeed in this course, you do not need prior web development experience, only basic internet navigation skills and an eagerness to get started with coding.
 
 
-# COURSE
-2
-Programming in Python
+# COURSE 2
+
+# Programming in Python
 4.8stars
 136 ratings
 In this course, you will be introduced to foundational programming skills with basic Python Syntax. You’ll learn how to use code to solve problems. You’ll dive deep into the Python ecosystem and learn popular modules, libraries and tools for Python. 
@@ -63,9 +63,9 @@ This is a beginner course for learners who would like to prepare themselves for 
 
 
 
-# COURSE
-3
-Version Control
+# COURSE 3
+
+# Version Control
 4.7stars
 266 ratings
 Learn how modern software developers collaborate across the world without messing up each other's code. You will look at the different version control systems and how to create an effective software development workflow. You will be introduced to some of the most commonly used Linux commands that you can use to work with files on your hard drive and create powerful workflows that will automate your work, saving you time and effort. 
@@ -73,9 +73,9 @@ Learn how modern software developers collaborate across the world without messin
 Finally, you will see how Git can be used in software development projects to manage team files. And you will create a repository that can manage code revisions.
 
 
-# COURSE
-4
-Introduction to Databases for Back-End Development
+# COURSE 4
+
+# Introduction to Databases for Back-End Development
 4.4stars
 29 ratings
 Back-end developers write applications that end-users use to interact with databases. Some common tasks that end-users carry out using these applications include storing, searching, extracting and manipulating data.
@@ -102,37 +102,37 @@ You’ll also gain experience with the following:
 
 
 
-# COURSE
-5
-Django Web Framework
+# COURSE 5
+
+# Django Web Framework
 It's time to build something bigger. In this course, you will use the Django web framework to build, secure and administer a web server. You will have the opportunity to create, design and configure a web app using the Django framework in-line with best practices. 
 
 Explore the usage of models in Django and their relationship to databases. Use views to render requested data to meaningful template structures for a composed user interface (UI). Implement proactive security practices and mitigate common security risks.
 
 
 
-# COURSE
-6
-APIs
+# COURSE 6
+
+# APIs
 Delve deeper into the processes and concepts behind APIs and their infrastructure. Explore the key concepts that underpin API development and the principles of representational state transfer architectural style (REST) architecture. Build basic API and REST data backbones for web apps using Django. Discover emerging API technology and practice other ways to build and work with APIs. Finally, you will test, optimize and develop documentation for an API.
 
 
-# COURSE
-7
-The Full Stack
+# COURSE 7
+
+# The Full Stack
 Practice bringing together multiple skills to build a full-stack Django app. You’ll start by setting up an environment for a local practical project, and refactoring the front and back-ends of an existing application. You will then have the opportunity to create the front and back-ends of a new application using your full-stack developer skills.
 
 
-# COURSE
-8
-Cloud Computing
+# COURSE 8
+
+# Cloud Computing
 Learn about the different tools and systems involved in cloud computing and dev ops. Explore popular cloud solutions and the benefits to cloud computing along with the core cloud architecture concepts and approaches. 
 
 You’ll also learn about the pipelines, integration techniques and workflows involved in dev ops. You’ll understand the methods and tools involved in delivery and deployment. Plus, you’ll learn about the core concepts that underpin the use of containers such as Docker and Kubernetes and how they are used. Finally, discover how all the different dev ops principles come together to form the practice of site reliability engineering.
 
 
-# COURSE
-9
+# COURSE 9
+
 Back-End Developer Capstone
 The Capstone project enables you to demonstrate multiple skills by solving an authentic real-world problem. You’ll test your abilities in full-stack back-end development in a real-life scenario by composing a Django web app. 
 
@@ -141,9 +141,9 @@ You will use clean and bug free coding to create a Django web server with multip
 On completion of the Capstone project, you’ll have a project-based portfolio that you can show to potential employers when interviewing for an engineer role.
 
 
-# COURSE
-10
-Coding Interview Preparation
+# COURSE 10
+
+# Coding Interview Preparation
 The final course in this program will help prepare you for the unique aspects of a coding job interview, with approaches to problem solving, computer science foundations and soft skills needed to land the job.
 
 You’ll gain strategic insights and tips for successful interviewing. And, you’ll have the opportunity to openly discuss the emotional components of the interview process with other learners taking this course.
