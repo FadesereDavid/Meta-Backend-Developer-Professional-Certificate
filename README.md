@@ -1,26 +1,12 @@
 # Meta-Backend-Development-Professional-Certificate
 
-
-
-
-Meta Back-End Developer Professional Certificate
-Launch your career as a back-end developer. Build job-ready skills for an in-demand career and earn a credential from Meta. No degree or prior experience required to get started.
-
-4.7stars
-719 ratings
-Taught by Meta Staff
-  
-Already enrolled
-21,359 already enrolled
-
 #Headings Of Course Review 
 
 
 # COURSE 1
 
 # Introduction to Back-End Development
-4.8stars
-576 ratings
+
 Welcome to Introduction to Back-End Development, the first course in the Meta Back-End Developer program.  
 
 This course is a good place to start if you want to become a web developer. You will learn about the day-to-day responsibilities of a web developer and get a general understanding of the core and underlying technologies that power the internet. You will learn how front-end developers create websites and applications that work well and are easy to maintain. 
@@ -43,8 +29,7 @@ This is a beginner course intended for learners eager to learn the fundamentals 
 # COURSE 2
 
 # Programming in Python
-4.8stars
-136 ratings
+
 In this course, you will be introduced to foundational programming skills with basic Python Syntax. You’ll learn how to use code to solve problems. You’ll dive deep into the Python ecosystem and learn popular modules, libraries and tools for Python. 
 
 You’ll also get hands-on with objects, classes and methods in Python, and utilize variables, data types, control flow and loops, functions and data structures. You’ll learn how to recognize and handle errors and you’ll write unit tests for your Python code and practice test-driven development.
@@ -66,8 +51,7 @@ This is a beginner course for learners who would like to prepare themselves for 
 # COURSE 3
 
 # Version Control
-4.7stars
-266 ratings
+
 Learn how modern software developers collaborate across the world without messing up each other's code. You will look at the different version control systems and how to create an effective software development workflow. You will be introduced to some of the most commonly used Linux commands that you can use to work with files on your hard drive and create powerful workflows that will automate your work, saving you time and effort. 
 
 Finally, you will see how Git can be used in software development projects to manage team files. And you will create a repository that can manage code revisions.
@@ -76,8 +60,7 @@ Finally, you will see how Git can be used in software development projects to ma
 # COURSE 4
 
 # Introduction to Databases for Back-End Development
-4.4stars
-29 ratings
+
 Back-end developers write applications that end-users use to interact with databases. Some common tasks that end-users carry out using these applications include storing, searching, extracting and manipulating data.
 
 Therefore, it’s essential that all back-end developers possess strong knowledge and experience with how databases work.
@@ -142,8 +125,3 @@ On completion of the Capstone project, you’ll have a project-based portfolio t
 
 
 # COURSE 10
-
-# Coding Interview Preparation
-The final course in this program will help prepare you for the unique aspects of a coding job interview, with approaches to problem solving, computer science foundations and soft skills needed to land the job.
-
-You’ll gain strategic insights and tips for successful interviewing. And, you’ll have the opportunity to openly discuss the emotional components of the interview process with other learners taking this course.
